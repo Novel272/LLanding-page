@@ -42,8 +42,15 @@ ul{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    margin: 50px
+}
+.ftwoL{
+    display: flex;
+    margin: 50px;
 }
 .ftwoR{
     display: flex;
+    margin: 40px;
 
 }
