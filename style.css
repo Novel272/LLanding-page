@@ -46,7 +46,7 @@ ul{
 }
 .ftwoL{
     display: flex;
-    margin: 200px;
+    margin-left: 200px;
 }
 .ftwoR{
     display: flex;
