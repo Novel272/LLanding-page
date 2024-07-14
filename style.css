@@ -77,6 +77,9 @@ h2{
     justify-content: center;
     gap: 52px;
 }
-.boxMsg{
-    max-width: 200px;
+.BUtton{
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    padding: 32px 16px;
 }
