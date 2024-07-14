@@ -13,7 +13,7 @@
     font-size: 36px;
     color: #f9faf8;
 }
-.px{
+.px,.pxONE{
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -51,8 +51,10 @@ ul{
 .ftwoR{
     display: flex;
     margin: 40px;
-
 }
 button{
     color: blue;
+}
+.pxONE{
+    margin-left: 90px;
 }
