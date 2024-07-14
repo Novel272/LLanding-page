@@ -76,7 +76,7 @@ h2{
 .boxs{
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 30px;
 }
 .BUtton{
     background-color: blue;
