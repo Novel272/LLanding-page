@@ -34,11 +34,11 @@ ul{
 }
 .ftwo{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .ftwoL, .ftwoR{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
     width: 50%;
