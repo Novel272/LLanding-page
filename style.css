@@ -42,11 +42,10 @@ ul{
     justify-content: center;
     align-items: center;
     width: 50%;
-    margin: 50px;
 }
 .ftwoL{
     display: flex;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 .ftwoR{
     display: flex;
