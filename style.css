@@ -34,16 +34,14 @@ ul{
 }
 .ftwo{
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: row;
-    width: 50%;
 }
 .ftwoL, .ftwoR{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 50%;
     margin: 50px
 }
 .ftwoL{
