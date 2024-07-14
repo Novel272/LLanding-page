@@ -39,7 +39,6 @@ ul{
 .ftwoL, .ftwoR{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     width: 50%;
 }
