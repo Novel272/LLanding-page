@@ -52,8 +52,12 @@ ul{
     margin: 40px;
 }
 .Button{
+    margin-right: 90px;
     background-color: blue;
     color: white;
     border-radius: 12px;
     padding: 10px 24px;
+}
+.pxONE{
+    margin-left: 90px;
 }
