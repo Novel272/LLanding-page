@@ -29,6 +29,8 @@ ul{
 .headerR,.headerL{
     display: flex;
     width: 50%;
+    justify-content: center;
+    align-items: center;
 }
 .ftwo{
     display: flex;
