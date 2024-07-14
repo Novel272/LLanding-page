@@ -62,3 +62,16 @@ ul{
 .pxONE{
     margin-left: 120px;
 }
+.second{
+    display: flex;
+}
+h2{
+    font-size: 32px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.boxs{
+    display: flex;
+    justify-content: center;
+    gap: 52px;    
+}
