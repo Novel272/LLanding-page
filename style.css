@@ -110,3 +110,20 @@ h2{
     margin-left: 50px;
     margin-right: 50px;
 }
+.fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bi{
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+    width: 75%;
+}
+.sma{
+    background-color: blue;
+    border-radius: 12px white;
+    width: auto;
+}
