@@ -64,6 +64,8 @@ ul{
 }
 .second{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 h2{
     font-size: 32px;
@@ -72,9 +74,11 @@ h2{
 }
 .boxs{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     gap: 52px;    
 }
 .blue{
-    max-width: 100px;
+    max-width: 50px;
+    max-height: 50px;
 }
