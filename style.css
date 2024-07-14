@@ -7,11 +7,9 @@
 }
 .header{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 50%;
+    flex-direction: row;
 }
-#headerlL{
+#headerLL{
     font-size: 36px;
     color: #f9faf8;
 }
@@ -24,9 +22,13 @@
     font-weight: bolder;
     color: #f9faf8;
 }
-.headerR{
+ul{
     display: flex;
     flex-direction: row;
+}
+.headerR,.headerL{
+    display: flex;
+    width: 50%;
 }
 .ftwo{
     display: flex;
