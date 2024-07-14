@@ -34,7 +34,7 @@ ul{
 }
 .ftwo{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .ftwoL, .ftwoR{
     display: flex;
