@@ -102,8 +102,11 @@ h2{
     color: #1F2937;
 }
 .thirs{
-    margin-left: 400px;
+    margin-left: 450px;
+    margin-bottom: 50px;
 }
-.thirr,.thirs{
-    margin: 50px;
+.thirr{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
