@@ -46,7 +46,7 @@ ul{
 }
 .ftwoL{
     display: flex;
-    margin: 50px;
+    margin: 200px;
 }
 .ftwoR{
     display: flex;
@@ -57,7 +57,4 @@ ul{
     color: white;
     border-radius: 12px;
     padding: 10px 24px;
-}
-.pxONE{
-    margin-left: 90px;
 }
