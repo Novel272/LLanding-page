@@ -64,6 +64,7 @@ ul{
 }
 .second{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -74,6 +75,7 @@ h2{
 }
 .boxs{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     gap: 52px;
 }
