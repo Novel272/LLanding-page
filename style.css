@@ -11,7 +11,7 @@
     align-items: center;
     width: 50%;
 }
-#headerL{
+#headerlL{
     font-size: 36px;
     color: #f9faf8;
 }
@@ -19,7 +19,7 @@
     font-size: 18px;
     color: #E5E7EB;
 }
-.bold{
+.h1{
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
