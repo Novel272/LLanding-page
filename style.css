@@ -68,6 +68,7 @@ ul{
     justify-content: center;
     align-items: center;
     gap: 30px;
+    margin: 50px;
 }
 h2{
     font-size: 32px;
@@ -87,6 +88,7 @@ h2{
     padding: 32px 16px;
 }
 .third{
+    margin: 50px;
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
