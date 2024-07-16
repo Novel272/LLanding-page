@@ -124,7 +124,7 @@ h2{
     text-align: center;
     width: 75%;
 }
-p{
+.bi{
     display: flex;
     font-size: 360px;
     color: #E5E7EB;
@@ -132,5 +132,4 @@ p{
 .sma{
     background-color: blue;
     border-radius: 12px white;
-    width: auto;
 }
