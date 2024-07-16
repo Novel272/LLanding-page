@@ -74,7 +74,7 @@ ul{
     gap: 30px;
     margin: 50px;
 }
-h2,h4{
+h2{
     font-size: 32px;
     font-weight: bolder;
     color: #1f2937;
@@ -126,6 +126,8 @@ h2,h4{
     border: 2px solid;
     border-radius: 12px;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .bi{
     display: flex;
