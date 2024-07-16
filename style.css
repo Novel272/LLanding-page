@@ -148,7 +148,8 @@ h4{
 .sma{
     background-color: blue;
     width: auto;
-    height: 10px;
+    height: 30px;
     border-radius: 12px white;
     margin-left: 20px;
+    margin-top: 40px;
 }
