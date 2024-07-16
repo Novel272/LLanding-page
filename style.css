@@ -122,17 +122,23 @@ h2{
 .Fbox{
     display: flex;
     background-color: blue;
-    color: white;
     border: 2px solid;
-    border-radius: 12px;
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+h4{
+    display: flex;
+    font-size: 36px;
+    color: #E5E7EB;
+    margin-top: 30px;
 }
 .bi{
     display: flex;
     font-size: 36px;
     color: #E5E7EB;
+    margin-left: 20px;
+    margin-bottom: 40px;
 }
 .sma{
     background-color: blue;
