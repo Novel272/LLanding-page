@@ -123,7 +123,7 @@ h2{
     display: flex;
     background-color: blue;
     border: 2px solid;
-    text-align: center;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
