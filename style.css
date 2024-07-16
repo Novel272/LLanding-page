@@ -5,6 +5,10 @@
 body{
     display: flex;
     flex-direction: column;
+    background-image: url(/home/m7med/Landing-Page/image/kitchen-8544377_1920.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .first{
     background-color: #1f2937;
